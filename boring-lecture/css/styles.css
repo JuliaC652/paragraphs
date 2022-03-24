@@ -4,6 +4,12 @@
   font-size: larger;
 }
 
+.try{
+  font-family: 'Gill Sans';
+  font-weight: bold;
+  color:brown
+}
+
 p{
   font-style: italic;
   color:royalblue;
@@ -11,6 +17,6 @@ p{
 }
 
 body{
-  background-color: lightgreen;
+  background: linear-gradient(lightgreen,red);
   padding-left: 10%
 }
