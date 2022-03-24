@@ -13,3 +13,7 @@ p.author {
   color: red;
   font-weight: bold;
 }
+
+body{
+  padding-left: 10%
+}

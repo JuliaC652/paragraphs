@@ -1,0 +1,16 @@
+.intro{
+  color:purple;
+  font-weight: bolder;
+  font-size: larger;
+}
+
+p{
+  font-style: italic;
+  color:royalblue;
+  font-weight:600
+}
+
+body{
+  background-color: lightgreen;
+  padding-left: 10%
+}
